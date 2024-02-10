@@ -29,5 +29,5 @@ Sou apaixonado por transformar ideias em interfaces incríveis. Como desenvolved
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoalexandrejs&show_icons=true&theme=cobalt)
 
 
-### Projetos em destaques :
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/edf833191220227.65c7ccfe4a111.png">
 
